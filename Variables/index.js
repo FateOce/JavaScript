@@ -8,8 +8,6 @@ age = age +1 ;
 var fullName = firstName + "" +lastName
 
 
-
-
 console.log("your age is " + age)
 console.log("Are you online?:",online)
 console.log("Hello",firstName)
