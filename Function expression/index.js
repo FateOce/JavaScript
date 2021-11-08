@@ -23,11 +23,11 @@ function outputWebsite (x) {
 // output(greeting);
 
 
-// //output = func => func();
+// //output = func => func(); // not working
 // function output(func){
 //     func();
 //}
 
 
-// let hi = ()=>{console.log("New")};
-// hi();
+let hi = ()=>{console.log("New")};
+hi();

@@ -23,3 +23,5 @@ age >= 65 ? console.log("You are a senior")
             : age >=18 ? console.log("You are an adult!")
             : age <= 0 ? console.log("You haven't been born yet!")
             : console.log("You are a child!");
+
+            
